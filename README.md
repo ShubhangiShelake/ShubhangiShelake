@@ -26,7 +26,7 @@ I'm **Shubhangi Shelake**
 
 ## 📫 Reach Me
 
-📧 Email: yourmail@gmail.com
+📧 Email: shubhangishelake26@gmail.com
 
 🔗 LinkedIn: your-linkedin-url
 
