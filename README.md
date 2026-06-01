@@ -136,7 +136,7 @@
 
 📧 Email: [shubhangishelake26@gmail.com](mailto:shubhangishelake26@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN-USERNAME
+💼 LinkedIn: https://linkedin.com/in/shubhangi-shelake-b55b4826a
 
 🐙 GitHub: https://github.com/ShubhangiShelake
 
