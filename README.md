@@ -16,9 +16,7 @@
 
 💼 Software Developer Intern with hands-on experience in MERN Stack Development
 
-🌱 Currently learning Next.js, TypeScript, and Advanced Backend Development
-
-🚀 Passionate about building scalable and user-friendly web applications
+🌱 Currently learning Next.js..
 
 💡 Interested in Full Stack Development, Java, and Problem Solving
 
